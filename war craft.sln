@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "war craft", "war craft\war craft.vcxproj", "{0EBCE62C-1C1B-470B-86B8-6490DBD4439D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EBCE62C-1C1B-470B-86B8-6490DBD4439D}.Debug|x64.ActiveCfg = Debug|x64
+		{0EBCE62C-1C1B-470B-86B8-6490DBD4439D}.Debug|x64.Build.0 = Debug|x64
+		{0EBCE62C-1C1B-470B-86B8-6490DBD4439D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EBCE62C-1C1B-470B-86B8-6490DBD4439D}.Debug|x86.Build.0 = Debug|Win32
+		{0EBCE62C-1C1B-470B-86B8-6490DBD4439D}.Release|x64.ActiveCfg = Release|x64
+		{0EBCE62C-1C1B-470B-86B8-6490DBD4439D}.Release|x64.Build.0 = Release|x64
+		{0EBCE62C-1C1B-470B-86B8-6490DBD4439D}.Release|x86.ActiveCfg = Release|Win32
+		{0EBCE62C-1C1B-470B-86B8-6490DBD4439D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2EF39F-A105-413B-B579-27588AB27BE1}
+	EndGlobalSection
+EndGlobal
